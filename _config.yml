@@ -1,0 +1,212 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: PIAT Arthur
+title: PhD student in electrical System modeling and optimization
+email: pait.arthur67@gmail.fr
+website: www.github.com/Pimss
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+#twitter_username: facespics
+github_username:  Pimss
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: jameswgrant
+linkedin_username: arthur-piat-a97229100
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/picture.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I am currently a Phd student working in the fields of high frequency predictive modeling of electrical system. This cover Electromagnetic Compatibility (EMC) and global electrical system modeling and optimization.
+  Before this I was a research engineer student working Multidisciplinary Design Optimization of electrical system. I had had various work experience in very different companies: small companies for a more diverse and operational activity and flexible environements, big companies with great amount of know-how in aeronautics with numerical simulation and various level of computationnal requirements. 
+  This broad background always gives me ideas for new projects that I love to share with my close friends and familly on github.
+  Feel free to contact me over one of my projects or one of my publications, I'll be happy to discuss it!
+
+
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: IRT Saint Exupery
+        link: https://www.irt-saintexupery.com
+        link_text: IRT Saint Exupéry
+        sub_title: PhD student in high frequency modeling of electrical motor
+        caption: 2021 - now
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Developing tools and methodologies to predict by simulations the high frequency behavior of electric motors to increase the power density of electrical system for electric aircraft.
+          Intertwine Finite Element modeling software with Spice-like approaches to simulate complex systems and predict system impedance.
+          Use predictive modeling, design of experiments and uncertinities to target efficient design parameters and improve overall system performances.
+          Design experiments and prototypes allowing to perform various test campaigns, validating simulation approaches.
+          
+      - layout: left
+        title: Liebherr Aerospace
+        link: https://www.liebherr.com/en/fra/products/aerospace-and-transportation-systems/aerospace/aerospace.html
+        link_text: liebherr.com/aerospace
+        sub_title: Research engineer
+        caption: 2019 - 2021
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Translating and coding state of the art predictive codes for FlyingCap and fullbridge inverter topologies covering system behavior and EMC pertubations prediction.
+          Reformating sizing methodologies to allows optimization algorithm to size and optimize EMC passive filtering devices
+          Use Multidiscilinary Design Optimization methods to compute system trade-off using predictive approaches.
+      - layout: left
+        title: Cocoon Leasing pty
+
+        sub_title: Process engineer/analyst
+        caption: 2017 - 2018
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Part time job: data engineer for an Australian Leasing company.
+          Using google cloud platform to automate leasing processes (**Google compute engine, Cloud SQL, App engine**). 
+      - layout: left
+        title: ShopWings
+        sub_title: Process engineer/analyst
+        caption:  November 2016 - May 2017
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          6 months internship in **Australia** in a Rocket internet company.
+          Automatizing current computer framework and maintenance of the databases of the company (SQL, Python, Git)
+          
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Normandie Université - Safran
+        caption: 2020 - 2023
+        sub_title: PhD in Statistics and Computer science
+        #quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          “CIFRE” PhD (half academic, half industrial PhD) made in collaboration between Normandie Université and Safran.
+          The goal was to develop methods for robust training and certifying technological solutions based on deep learning. 
+          (Robust optimization, Wassertein distributional robustness, Lipschitz networks, Monte Carlo methods)
+      - layout: left
+        title: Centrale Lyon - Université Lyon 1
+        caption: 2017 - 2018
+        sub_title: Double diploma, Engineering diploma and Master degree
+        #quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          This double diploma was acheived during my last year of engineer school in Computer Science.
+          I followed more practical courses at the university on multi agent systems, evolutionary algorithms, traditional machine learning.
+      - layout: left
+        title: Centrale Lyon
+        caption: 2014 - 2017
+        sub_title: General engineering
+        # quote: >
+        #   General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
+        description: | # this will include new lines to allow paragraphs
+          Three years in a top French engineering school. These were dedicated to core courses before the selection of a specialty in last year.    
+      - layout: left
+        title: Henri IV - Louis Le Grand
+        caption: 2012 - 2014
+        sub_title: MPSI - PSI*
+        #quote: >
+        #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
+        description: | # this will include new lines to allow paragraphs
+          “Classe préparatoire” Two-year intensive program preparing for the national competitive exam for entry to top French engineering schools.
+          First year: MPSI in Henri IV High School; second year: PSI* in Louis le Grand High School.
+
+
+      - layout: left
+        title: Lycée en Forêt
+        caption: 2011 - 2012
+        #sub_title: 
+        #quote: >
+        #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
+        description: | # this will include new lines to allow paragraphs
+          Baccalauréat (equivalent to A-levels) in science and maths with honours.
+
+  - title: Skills
+    layout: text
+    content: | #test
+      * **Languages**: English (Fluent), French (Native), German (Conversational), Spanish (Conversational)
+      * **Statistics**: Robust optimization, Gradient methods, Gaussian processes, Markov Decision Processes, Monte Carlo methods, Uncertainty quantification, Optimal Transport, Graph Theory.
+      * **Programming**: C++, SQL, Python, R, Git, Docker
+      * **Deep learning**: Pytorch (Proeficient: 6 years experience), Distributed trainings over multiple nodes of a cluster scheduled with slurm ecosystem.
+
+  
+
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: August 2022
+        sub_title: Workshop paper
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          **Towards an Evaluation of Lipschitz Constant Estimation Algorithms by building Models with a Known Lipschitz Constant**. Joint work with Frédéric JURIE, Jalal FADILI and Sébastien DA VEIGA. Presents an approach to quantify the error made by Lipschitz assessing algorithms for deep neural nets.
+      - layout: left
+        title: June 2022
+        sub_title: Submitted journal article
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          **Regularized Robust Optimization with Application to Robust Learning**. Joint work with Frédéric JURIE, Jalal FADILI and Sébastien DA VEIGA. Introduce a new approach to tackle Distributional Robust optimization of non-smooth functions with guarantees. Our algorithm combines smoothing with Monte Carlo sampling for and can asymptotically solve the problem.  
+      
+  - title: Projects
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Here is the non exhaustive list of some personal projects that I worked on:
+      - [Networking and types of VPN to allow seemless streaming of a gaming PC or console](https://github.com/williampiat3/ImprovingPSRemotePlay)
+      - [Upscaling videos with a Wasserstein GAN and making this able to run on a potatoe](https://github.com/williampiat3/Upscale)
+      - [Building genetic algorithms to optimize black box models](https://github.com/williampiat3/GeneticAlgorithm)
+      - [Making a photobooth for my brother's wedding](https://github.com/williampiat3/photoBoothQ)
+      - Using greedy algorithms on graph to optimize medical plannings
+      - Coding an app for [sending easily Spotify musics](https://playlistsender.herokuapp.com/) to friends and to [receive them](https://playlistreceiver.herokuapp.com/)
+      - [Using basical knowledge of deep reinforcement learning to minimize wait time of elevator users](https://github.com/williampiat3/Reinforcement)
+  - title: Some Extra
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      When I am not working I like :
+      - Every single type of ski (cross country skiing, touring skis, downhill skis).
+      - Tinkering with Raspberry pis, Arduinos and 3D printing.
+      - Running and mountain biking.
+      - Repairing broken electronics and bikes.
+      - Occasionally Kitesurfing
+  
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
