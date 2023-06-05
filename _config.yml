@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: PIAT Arthur
 title: PhD student in electrical System modeling and optimization
-email: pait.arthur67@gmail.fr
+email: piat.arthur67@gmail.com
 website: www.github.com/Pimss
 
 # Dark Mode (true/false/never)
@@ -83,7 +83,7 @@ content:
           Reformating sizing methodologies to allows optimization algorithm to size and optimize EMC passive filtering devices
           Use Multidiscilinary Design Optimization methods to compute system trade-off using predictive approaches.
       - layout: left
-        title: Cocoon Leasing pty
+        title: IRT Saint Exupéry
 
         sub_title: Process engineer/analyst
         caption: 2017 - 2018
@@ -92,7 +92,7 @@ content:
           Part time job: data engineer for an Australian Leasing company.
           Using google cloud platform to automate leasing processes (**Google compute engine, Cloud SQL, App engine**). 
       - layout: left
-        title: ShopWings
+        title: Digital Product Simulation
         sub_title: Process engineer/analyst
         caption:  November 2016 - May 2017
         #quote: >
