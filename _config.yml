@@ -99,6 +99,8 @@ content:
           
       - layout: left
         title: IRT Saint Exupéry
+        link: https://www.irt-saintexupery.com
+        link_text: IRT Saint Exupéry
         sub_title: Research engineer
         caption: 2018 - 2019
         #quote: >
@@ -129,8 +131,8 @@ content:
           PhD thesis in partnership with IRT Saint Exupéry. 
           Use predictive approaches to simulate HF motor impedances 
       - layout: left
-        title: INSA  Toulouse 
-        caption: 2012 - 2017
+        title: INSA Toulouse 
+        caption: 2015 - 2017
         sub_title: Engineering diploma in system engineering, derived from Mechnanical engineering. Core course were global temporal multiphysic simulation, sizing of power trains (electric, hydraulic, mechanic) and overall system optimization
         #quote: >
           
@@ -138,79 +140,78 @@ content:
           This double diploma was acheived during my last year of engineer school in Computer Science.
           I followed more practical courses at the university on multi agent systems, evolutionary algorithms, traditional machine learning.
       - layout: left
-        title: Centrale Lyon
-        caption: 2014 - 2017
-        sub_title: General engineering
+        title: INSA Toulouse 
+        caption: 2012 - 2015
+        sub_title: Mechanical engineering
         # quote: >
-        #   General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
-        description: | # this will include new lines to allow paragraphs
-          Three years in a top French engineering school. These were dedicated to core courses before the selection of a specialty in last year.    
-      - layout: left
-        title: Henri IV - Louis Le Grand
-        caption: 2012 - 2014
-        sub_title: MPSI - PSI*
-        #quote: >
-        #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
-        description: | # this will include new lines to allow paragraphs
-          “Classe préparatoire” Two-year intensive program preparing for the national competitive exam for entry to top French engineering schools.
-          First year: MPSI in Henri IV High School; second year: PSI* in Louis le Grand High School.
 
+        description: | # this will include new lines to allow paragraphs
+          Three years in engineering school. These were dedicated to core courses before the selection of a specialty in second year and final speciality.    
 
       - layout: left
-        title: Lycée en Forêt
+        title: Lycée Durzy
         caption: 2011 - 2012
         #sub_title: 
         #quote: >
         #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
         description: | # this will include new lines to allow paragraphs
-          Baccalauréat (equivalent to A-levels) in science and maths with honours.
+          Baccalauréat (equivalent to A-levels) in science and Engineering with honours.
 
   - title: Skills
     layout: text
     content: | #test
-      * **Languages**: English (Fluent), French (Native), German (Conversational), Spanish (Conversational)
-      * **Statistics**: Robust optimization, Gradient methods, Gaussian processes, Markov Decision Processes, Monte Carlo methods, Uncertainty quantification, Optimal Transport, Graph Theory.
-      * **Programming**: C++, SQL, Python, R, Git, Docker
-      * **Deep learning**: Pytorch (Proeficient: 6 years experience), Distributed trainings over multiple nodes of a cluster scheduled with slurm ecosystem.
-
-  
+      * **Languages**: English (Fluent), French (Native), Spanish (Conversational)
+      * **Statistics**: Optimization, Gradient methods, Uncertainty quantification, Numerical solver, Graph Theory.
+      * **Programming**: Python, MATLAB, Simulink, C, Git
+      * **Software tools**: Eclipse, Anaconda, FEMM, LTSpice, Dymola
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: August 2022
+    
+    - layout: left
+        title: September 2023
         sub_title: Workshop paper
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          **Towards an Evaluation of Lipschitz Constant Estimation Algorithms by building Models with a Known Lipschitz Constant**. Joint work with Frédéric JURIE, Jalal FADILI and Sébastien DA VEIGA. Presents an approach to quantify the error made by Lipschitz assessing algorithms for deep neural nets.
-      - layout: left
-        title: June 2022
-        sub_title: Submitted journal article
+          **Predictive sensitivity analysis of motor's windings HF impedances**. Joint work with Sami HLIOUI, Pierre-Etienne LEVY, and François COSTA. Presents successful prediction of winding evolution with regards to design variables, validated on multiple prototypes by measurements.
+          
+        - layout: left
+        title: June 2023
+        sub_title: Workshop paper
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          **Regularized Robust Optimization with Application to Robust Learning**. Joint work with Frédéric JURIE, Jalal FADILI and Sébastien DA VEIGA. Introduce a new approach to tackle Distributional Robust optimization of non-smooth functions with guarantees. Our algorithm combines smoothing with Monte Carlo sampling for and can asymptotically solve the problem.  
-      
+          **Modélisation des impedances de Mode Commun et Différentiel d'un bobinage statorique, Impact d'une distribution aléatoire des conducteurs dans les encoches**. Joint work with Sami HLIOUI, Pierre-Etienne LEVY, and François COSTA. Introduce the problematic of winding arrangement and features few exemple of simulation with increasing level of random winding.
+          
+      - layout: left
+        title: November 2022
+        sub_title: Workshop paper
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          **AC motor impedance HF modeling for designing with windings variability**. Joint work with Pierre-Etienne LEVY,Sami HLIOUI, François COSTA and Sébastien SERPAUD. Presents an approach to generate random windings and compute matching impedances, while giving preliminary simulation results.
+          
+        - layout: left
+        title: August 2021
+        sub_title: Workshop paper
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          **A Multidisciplinary Design Optimization Approach for EMC Filter Design For More Electric Aircraft Application**. Joint work with Hans H. SATHLER ,François GALLARD and Bernardo COUGO. Presents an approach designing EMC filters in interaction with system constraints and reducing the global system mass by taking advanges of interactions.
+
   - title: Projects
     layout: text
     content: | # this will include new lines to allow paragraphs
       Here is the non exhaustive list of some personal projects that I worked on:
       - [Networking and types of VPN to allow seemless streaming of a gaming PC or console](https://github.com/williampiat3/ImprovingPSRemotePlay)
-      - [Upscaling videos with a Wasserstein GAN and making this able to run on a potatoe](https://github.com/williampiat3/Upscale)
-      - [Building genetic algorithms to optimize black box models](https://github.com/williampiat3/GeneticAlgorithm)
       - [Making a photobooth for my brother's wedding](https://github.com/williampiat3/photoBoothQ)
-      - Using greedy algorithms on graph to optimize medical plannings
-      - Coding an app for [sending easily Spotify musics](https://playlistsender.herokuapp.com/) to friends and to [receive them](https://playlistreceiver.herokuapp.com/)
-      - [Using basical knowledge of deep reinforcement learning to minimize wait time of elevator users](https://github.com/williampiat3/Reinforcement)
+      - Automate and control home appliance sleeping time to minimise power draw (ESP32, domoticz, Home Assistant, ...)
   - title: Some Extra
     layout: text
     content: | # this will include new lines to allow paragraphs
       When I am not working I like :
-      - Every single type of ski (cross country skiing, touring skis, downhill skis).
-      - Tinkering with Raspberry pis, Arduinos and 3D printing.
-      - Running and mountain biking.
+      - Brewing all kinds of beers in all kind of format
+      - Tinkering with Raspberry pis, Arduinos 3D printing and CNC machining.
+      - Biking.
       - Repairing broken electronics and bikes.
-      - Occasionally Kitesurfing
   
 # Footer
 footer_show_references: true
