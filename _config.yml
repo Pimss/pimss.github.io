@@ -72,16 +72,16 @@ content:
           Design experiments and prototypes allowing to perform various test campaigns, validating simulation approaches.
        
       - layout: left
-        title:  Electomagnetic actuator sizing teacher
-        link: https://www.irt-saintexupery.com
+        title:  INSA Toulouse
+        link: https://www.insa-toulouse.fr/en/index.html
         link_text: INSA Toulouse
         sub_title: Part time job is PhD Student
         caption: 2022 - now
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          Teach lectures on how to size DC actuators and simple AC systems
-          Guide student during varous projets including FEM simulation and 1D temporal validation using various software
-          Design evaluation to assess student level to the provided lesson
+          Teach lectures on how to size DC actuators and simple AC systems.
+          Guide student during varous projets including FEM simulation and 1D temporal validation using various software.
+          Design evaluation to assess student level to the provided lesson.
           
       - layout: left
         title: Liebherr Aerospace
@@ -108,6 +108,8 @@ content:
           Automate integration of MATLAB codes within Python optimization routine allowing to solved coupled disciplines.
       - layout: left
         title: Digital Product Simulation
+        link: https://dps-fr.com/
+        link_text: DPS
         sub_title: GUI developer
         caption:  February 2017 - July 2017
         #quote: >
@@ -120,19 +122,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Normandie Université - Safran
-        caption: 2020 - 2023
-        sub_title: PhD in Statistics and Computer science
-        #quote: >
-          
+        title: ENS Paris-Saclay
+        caption: 2021 - now
+        sub_title: PhD student in high frequency modeling of electrical motor
         description: | # this will include new lines to allow paragraphs
-          “CIFRE” PhD (half academic, half industrial PhD) made in collaboration between Normandie Université and Safran.
-          The goal was to develop methods for robust training and certifying technological solutions based on deep learning. 
-          (Robust optimization, Wassertein distributional robustness, Lipschitz networks, Monte Carlo methods)
+          PhD thesis in partnership with IRT Saint Exupéry. 
+          Use predictive approaches to simulate HF motor impedances 
       - layout: left
-        title: Centrale Lyon - Université Lyon 1
-        caption: 2017 - 2018
-        sub_title: Double diploma, Engineering diploma and Master degree
+        title: INSA  Toulouse 
+        caption: 2012 - 2017
+        sub_title: Engineering diploma in system engineering, derived from Mechnanical engineering. Core course were global temporal multiphysic simulation, sizing of power trains (electric, hydraulic, mechanic) and overall system optimization
         #quote: >
           
         description: | # this will include new lines to allow paragraphs
