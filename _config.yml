@@ -117,7 +117,7 @@ content:
         #quote: >
         description: | # this will include new lines to allow paragraphs
           6 months internship in a SME company.
-          Code a MATLAB-Java hybrid Graphical User Interface to access a Sequel Database (SQL)
+          Code a MATLAB-Java hybrid Graphical User Interface to access a Sequel Database (SQL).
           Used Oriented Object programing in MATLAB to create a composite patern build local database matching remote SQL. 
           
   - title: Education # Title for the section
@@ -130,22 +130,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           PhD thesis in partnership with IRT Saint Exupéry. 
           Use predictive approaches to simulate HF motor impedances 
+          
       - layout: left
         title: INSA Toulouse 
         caption: 2015 - 2017
         sub_title: System Engineering
-        description: Engineering diploma in System Engineering, derived from Mechnanical engineering. Core course were global temporal multiphysic simulation, sizing of power trains (electric, hydraulic, mechanic) and overall system optimization
-        #quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-          This double diploma was acheived during my last year of engineer school in Computer Science.
-          I followed more practical courses at the university on multi agent systems, evolutionary algorithms, traditional machine learning.
+        description: Engineering diploma in System Engineering. Core course were global temporal multiphysic simulation, sizing of power trains (electric, hydraulic, mechanic) and overall system optimization
+        
       - layout: left
         title: INSA Toulouse 
         caption: 2012 - 2015
-        sub_title: Mechanical engineering
+        sub_title: Mechanical Engineering
         # quote: >
-
         description: | # this will include new lines to allow paragraphs
           Three years in engineering school. These were dedicated to core courses before the selection of a specialty in second year and final speciality.    
 
