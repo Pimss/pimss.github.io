@@ -177,18 +177,6 @@ content:
         #quote: >
         description: | # this will include new lines to allow paragraphs
           **Modélisation des impedances de Mode Commun et Différentiel d'un bobinage statorique, Impact d'une distribution aléatoire des conducteurs dans les encoches**. Joint work with Sami HLIOUI, Pierre-Etienne LEVY, and François COSTA. Introduce the problematic of winding arrangement and features few exemple of simulation with increasing level of random winding.
-      - layout: left
-        title: November 2022
-        sub_title: Workshop paper
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
-          **AC motor impedance HF modeling for designing with windings variability**. Joint work with Pierre-Etienne LEVY,Sami HLIOUI, François COSTA and Sébastien SERPAUD. Presents an approach to generate random windings and compute matching impedances, while giving preliminary simulation results.
-        - layout: left
-        title: August 2021
-        sub_title: Workshop paper
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
-          **A Multidisciplinary Design Optimization Approach for EMC Filter Design For More Electric Aircraft Application**. Joint work with Hans H. SATHLER ,François GALLARD and Bernardo COUGO. Presents an approach designing EMC filters in interaction with system constraints and reducing the global system mass by taking advanges of interactions.
 
   - title: Projects
     layout: text
