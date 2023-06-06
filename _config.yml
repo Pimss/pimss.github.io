@@ -133,7 +133,8 @@ content:
       - layout: left
         title: INSA Toulouse 
         caption: 2015 - 2017
-        sub_title: Engineering diploma in system engineering, derived from Mechnanical engineering. Core course were global temporal multiphysic simulation, sizing of power trains (electric, hydraulic, mechanic) and overall system optimization
+        sub_title: System Engineering
+        description: Engineering diploma in System Engineering, derived from Mechnanical engineering. Core course were global temporal multiphysic simulation, sizing of power trains (electric, hydraulic, mechanic) and overall system optimization
         #quote: >
           
         description: | # this will include new lines to allow paragraphs
