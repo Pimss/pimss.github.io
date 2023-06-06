@@ -70,6 +70,18 @@ content:
           Intertwine Finite Element modeling software with Spice-like approaches to simulate complex systems and predict system impedance.
           Use predictive modeling, design of experiments and uncertinities to target efficient design parameters and improve overall system performances.
           Design experiments and prototypes allowing to perform various test campaigns, validating simulation approaches.
+       
+      - layout: left
+        title:  Electomagnetic actuator sizing teacher
+        link: https://www.irt-saintexupery.com
+        link_text: INSA Toulouse
+        sub_title: Part time job is PhD Student
+        caption: 2022 - now
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Teach lectures on how to size DC actuators and simple AC systems
+          Guide student during varous projets including FEM simulation and 1D temporal validation using various software
+          Design evaluation to assess student level to the provided lesson
           
       - layout: left
         title: Liebherr Aerospace
@@ -82,23 +94,27 @@ content:
           Translating and coding state of the art predictive codes for FlyingCap and fullbridge inverter topologies covering system behavior and EMC pertubations prediction.
           Reformating sizing methodologies to allows optimization algorithm to size and optimize EMC passive filtering devices
           Use Multidiscilinary Design Optimization methods to compute system trade-off using predictive approaches.
+          Validate simulation approaches on a 15kVA and 50kVA test benches and ensure EMC regulation compliance.
+          
+          
       - layout: left
         title: IRT Saint Exupéry
-
-        sub_title: Process engineer/analyst
-        caption: 2017 - 2018
+        sub_title: Research engineer
+        caption: 2018 - 2019
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          Part time job: data engineer for an Australian Leasing company.
-          Using google cloud platform to automate leasing processes (**Google compute engine, Cloud SQL, App engine**). 
+          Use MDO tools to simulate electical models to predict system mass and reduce overall weight. 
+          Interact with various domains expert to validate optimization results and confirm key design improvement.
+          Automate integration of MATLAB codes within Python optimization routine allowing to solved coupled disciplines.
       - layout: left
         title: Digital Product Simulation
-        sub_title: Process engineer/analyst
-        caption:  November 2016 - May 2017
+        sub_title: GUI developer
+        caption:  February 2017 - July 2017
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          6 months internship in **Australia** in a Rocket internet company.
-          Automatizing current computer framework and maintenance of the databases of the company (SQL, Python, Git)
+          6 months internship in a SME company.
+          Code a MATLAB-Java hybrid Graphical User Interface to access a Sequel Database (SQL)
+          Used Oriented Object programing in MATLAB to create a composite patern build local database matching remote SQL. 
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
