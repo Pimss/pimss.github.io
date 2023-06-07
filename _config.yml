@@ -210,7 +210,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       When I am not working I like :
-      - Brewing all kinds of beers in all kind of format
+      - Brewing all kinds of beers in all kinds of format.
       - Tinkering with Raspberry pis, Arduinos, 3D printing and CNC machining.
       - Biking.
       - Repairing broken electronics and bikes.
