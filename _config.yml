@@ -116,8 +116,8 @@ content:
         caption:  February 2017 - July 2017
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          6 months internship in a SME company.
-          Code a MATLAB-Java hybrid Graphical User Interface to access a Sequel Database (SQL).
+          6-month internship in a SME company.
+          Developed a MATLAB-Java hybrid Graphical User Interface to access a Sequel Database (SQL).
           Used Oriented Object programing in MATLAB to create a composite patern local database allowing to load and update a remote SQL. 
           
   - title: Education # Title for the section
