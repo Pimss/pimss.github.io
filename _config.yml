@@ -205,7 +205,7 @@ content:
       Here is the non exhaustive list of some personal projects that I worked on:
       - [Networking and types of VPN to allow seemless streaming of a gaming PC or console](https://github.com/williampiat3/ImprovingPSRemotePlay)
       - [Making a photobooth for my brother's wedding](https://github.com/williampiat3/photoBoothQ)
-      - Automate and control home appliance sleeping time, minimising power draw (ESP32, domoticz, Home Assistant, ...)
+      - Automate and control home appliance sleeping times, minimizing power draw
   - title: Some Extra
     layout: text
     content: | # this will include new lines to allow paragraphs
