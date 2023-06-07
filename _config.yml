@@ -171,14 +171,14 @@ content:
         caption: EMC Europe 2023
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          **Predictive sensitivity analysis of motor's windings HF impedances**. Joint work with Sami HLIOUI, Pierre-Etienne LEVY, and François COSTA. Presents successful prediction of winding evolution with regards to design variables, validated on multiple prototypes by measurements.
+          **Predictive sensitivity analysis of motor's windings HF impedances**. Joint work with Sami HLIOUI, Pierre-Etienne LEVY and François COSTA. Presents successful prediction of winding evolution with regards to design variables, validated on multiple prototypes by measurements.
       - layout: left
         title: June 2023
         sub_title: Workshop paper
         caption: CEM 2023
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          **Modélisation des impédances de Mode Commun et Différentiel d'un bobinage statorique, Impact d'une distribution aléatoire des conducteurs dans les encoches**. Joint work with Sami HLIOUI, Pierre-Etienne LEVY, and François COSTA. Introduce the problematic of winding arrangement and features few exemple of simulation with increasing level of random winding.
+          **Modélisation des impédances de Mode Commun et Différentiel d'un bobinage statorique, Impact d'une distribution aléatoire des conducteurs dans les encoches**. Joint work with Sami HLIOUI, Pierre-Etienne LEVY and François COSTA. Introduce the problematic of winding arrangement and features few exemple of simulation with increasing level of random winding.
 
       - layout: left
         title: November 2022
@@ -186,7 +186,7 @@ content:
         caption: CISTEM 2022
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          **AC motor impedance HF modeling for designing with windings variability**. Joint work with Pierre-Etienne LEVY,Sami HLIOUI, François COSTA and Sébastien SERPAUD. Presents an approach to generate random windings and compute matching impedances, while giving preliminary simulation results.
+          **AC motor impedance HF modeling for designing with windings variability**. Joint work with Pierre-Etienne LEVY, Sami HLIOUI, François COSTA and Sébastien SERPAUD. Presents an approach to generate random windings and compute matching impedances, while giving preliminary simulation results.
 
 
       - layout: left
@@ -205,13 +205,13 @@ content:
       Here is the non exhaustive list of some personal projects that I worked on:
       - [Networking and types of VPN to allow seemless streaming of a gaming PC or console](https://github.com/williampiat3/ImprovingPSRemotePlay)
       - [Making a photobooth for my brother's wedding](https://github.com/williampiat3/photoBoothQ)
-      - Automate and control home appliance sleeping time to minimise power draw (ESP32, domoticz, Home Assistant, ...)
+      - Automate and control home appliance sleeping time, minimising power draw (ESP32, domoticz, Home Assistant, ...)
   - title: Some Extra
     layout: text
     content: | # this will include new lines to allow paragraphs
       When I am not working I like :
       - Brewing all kinds of beers in all kind of format
-      - Tinkering with Raspberry pis, Arduinos 3D printing and CNC machining.
+      - Tinkering with Raspberry pis, Arduinos, 3D printing and CNC machining.
       - Biking.
       - Repairing broken electronics and bikes.
   
