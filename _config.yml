@@ -48,8 +48,8 @@ linkedin_username: arthur-piat-a97229100
 # about_title: About Me
 about_profile_image: images/picture.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently a Phd student working in the fields of high frequency predictive modeling of electrical system. This cover Electromagnetic Compatibility (EMC) and global electrical system modeling and optimization.
-  Before this I was a research engineer working in Multidisciplinary Design Optimization of electrical system. I had had various work experience in very different companies: small companies for a more diverse and operational activity and flexible environements, big companies with great amount of know-how in aeronautics with numerical simulation and various level of computationnal requirements. 
+  I am currently a PhD student working in the fields of high frequency predictive modeling of electrical systems. This cover Electromagnetic Compatibility (EMC) and global electrical system modeling and optimization.
+  Before this I was a research engineer working in Multidisciplinary Design Optimization of electrical system. I had had various work experience in very different companies: small companies for a more diverse and operational activity and flexible environments, big companies with large amount of know-how in aeronautics with numerical simulations and various levels of computational requirements. 
   This broad background always gives me ideas for new projects that I love to share on github.
   Feel free to contact me over one of my projects or one of my publications, I'll be happy to discuss it!
 
@@ -66,10 +66,10 @@ content:
         caption: 2021 - now
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          Developing tools and methodologies to predict by simulations the high frequency behavior of electric motors to increase the power density of electrical system for electric aircraft.
+          Developing tools and methodologies to predict by simulations the high frequency behavior of electric motors to increase the power density of electrical systems for electric aircraft.
           Intertwine Finite Element modeling software with Spice-like approaches to simulate complex systems and predict system impedance.
-          Use predictive modeling, design of experiments and uncertinities to target efficient design parameters and improve overall system performances.
-          Design experiments and prototypes allowing to perform various test campaigns, validating simulation approaches.
+          Use predictive modeling, design of experiments and uncertainties to target efficient design parameters and improve overall system performances.
+          Design experiments and prototypes allowing performing various test campaigns, validating simulation approaches.
        
       - layout: left
         title:  INSA Toulouse
@@ -80,7 +80,7 @@ content:
         #quote: >
         description: | # this will include new lines to allow paragraphs
           Teach lectures on how to size DC actuators and simple AC systems.
-          Guide student during varous projets including FEM simulation and 1D temporal validation using various software.
+          Guide students during various projects including FEM simulation and 1D temporal validation using various software.
           Design evaluation to assess student level to the provided lesson.
           
       - layout: left
@@ -91,8 +91,8 @@ content:
         caption: 2019 - 2021
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          Translating and coding state of the art predictive codes for FlyingCap and fullbridge inverter topologies covering system behavior and EMC pertubations prediction.
-          Reformating sizing methodologies to allows optimization algorithm to size and optimize EMC passive filtering devices
+          Translating and coding state-of-the-art predictive codes for FlyingCap and Fullbridge inverter topologies covering system behavior and EMC pertubations prediction.
+          Formatting sizing methodologies to allows optimization algorithms to size and optimize EMC passive filtering devices
           Use Multidiscilinary Design Optimization methods to compute system trade-off using predictive approaches.
           Validate simulation approaches on a 15kVA and 50kVA test benches and ensure EMC regulation compliance.
           
@@ -105,9 +105,9 @@ content:
         caption: 2018 - 2019
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          Use MDO tools to simulate electical models to predict system mass and reduce overall weight. 
+          Use MDO tools to simulate electrical models to predict system mass and reduce overall weight. 
           Interact with various domains expert to validate optimization results and confirm key design improvement.
-          Automate integration of MATLAB codes within Python optimization routine allowing to solved coupled disciplines.
+          Automate integration of MATLAB codes within Python optimization routine allowing solving coupled disciplines.
       - layout: left
         title: Digital Product Simulation
         link: https://dps-fr.com/
@@ -118,7 +118,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           6-month internship in a SME company.
           Developed a MATLAB-Java hybrid Graphical User Interface to access a Sequel Database (SQL).
-          Used Oriented Object programing in MATLAB to create a composite patern local database allowing to load and update a remote SQL. 
+          Used Oriented Object programing in MATLAB to create a composite pattern local database allowing loading and updating a remote SQL. 
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -129,13 +129,13 @@ content:
         sub_title: PhD student in high frequency modeling of electrical motor
         description: | # this will include new lines to allow paragraphs
           PhD thesis in partnership with IRT Saint Exupéry. 
-          Use predictive approaches to simulate HF motor impedances 
+          Use predictive approaches to simulate HF motor impedances.
           
       - layout: left
         title: INSA Toulouse 
         caption: 2015 - 2017
         sub_title: System Engineering
-        description: Engineering diploma in System Engineering. Core course were global temporal multiphysic simulation, sizing of power trains (electric, hydraulic, mechanic) and overall system optimization
+        description: Engineering diploma in System Engineering. Core course were global temporal multiphysic simulation, sizing of power trains (electric, hydraulic, mechanic) and overall system optimization.
         
       - layout: left
         title: INSA Toulouse 
@@ -143,7 +143,7 @@ content:
         sub_title: Mechanical Engineering
         # quote: >
         description: | # this will include new lines to allow paragraphs
-          Three years in engineering school. These were dedicated to core courses before the selection of a specialty in second year and final speciality.    
+          Three years in engineering school. These were dedicated to core courses before the selection of a specialty in the second year and final speciality.    
 
       - layout: left
         title: Lycée Durzy
@@ -152,7 +152,7 @@ content:
         #quote: >
         #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
         description: | # this will include new lines to allow paragraphs
-          Baccalauréat (equivalent to A-levels) in science and Engineering with honours.
+          Baccalauréat (equivalent to A-levels) in science and engineering with honors.
 
   - title: Skills
     layout: text
@@ -178,7 +178,7 @@ content:
         caption: CEM 2023
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          **Modélisation des impédances de Mode Commun et Différentiel d'un bobinage statorique, Impact d'une distribution aléatoire des conducteurs dans les encoches**. Joint work with Sami HLIOUI, Pierre-Etienne LEVY and François COSTA. Introduce the problematic of winding arrangement and features few exemple of simulation with increasing level of random winding.
+          **Modélisation des impédances de Mode Commun et Différentiel d'un bobinage statorique, Impact d'une distribution aléatoire des conducteurs dans les encoches**. Joint work with Sami HLIOUI, Pierre-Etienne LEVY and François COSTA. Introduce the problematic of winding arrangement and features few examples of simulation with increasing levels of random winding.
 
       - layout: left
         title: October 2022
@@ -202,14 +202,14 @@ content:
   - title: Projects
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Here is the non exhaustive list of some personal projects that I worked on:
-      - [Networking and types of VPN to allow seemless streaming of a gaming PC or console](https://github.com/williampiat3/ImprovingPSRemotePlay)
+      Here is the non-exhaustive list of some personal projects that I worked on:
+      - [Networking and types of VPN to allow seamless streaming of a gaming PC or console](https://github.com/williampiat3/ImprovingPSRemotePlay)
       - [Making a photobooth for my brother's wedding](https://github.com/williampiat3/photoBoothQ)
       - Automate and control home appliance sleeping times, minimizing power draw
   - title: Some Extra
     layout: text
     content: | # this will include new lines to allow paragraphs
-      When I am not working I like :
+      When I am not working I like:
       - Brewing all kinds of beers in all kinds of format.
       - Tinkering with Raspberry pis, Arduinos, 3D printing and CNC machining.
       - Biking.
