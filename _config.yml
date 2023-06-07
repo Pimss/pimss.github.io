@@ -59,7 +59,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: IRT Saint Exupery
+        title: IRT Saint Exupéry
         link: https://www.irt-saintexupery.com
         link_text: IRT Saint Exupéry
         sub_title: PhD student in high frequency modeling of electrical motor
