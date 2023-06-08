@@ -66,7 +66,7 @@ content:
         caption: 2021 - now
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          Developing tools and methodologies to predict by simulations the high frequency behavior of electric motors to increase the power density of electrical systems for electric aircraft. (EMC, dV/dt, overvoltage, ...)
+          Developing tools and methodologies to predict by simulations the high frequency behavior of electric motors to increase the power density of electrical systems for electric aircraft (EMC, dV/dt, overvoltage, ...).
           Intertwine Finite Element modeling software with Spice-like approaches to simulate complex systems and predict system impedance.
           Use predictive modeling, design of experiments and uncertainties to target efficient design parameters and improve overall system performances.
           Design experiments and prototypes allowing performing various test campaigns, validating simulation approaches.
