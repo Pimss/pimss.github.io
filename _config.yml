@@ -165,13 +165,15 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-     - layout: left
+     
+      - layout: left
         title: January 2024
         sub_title: Journal article
         caption: Science and Technology for Energy Transition
         #quote: >
         description: | # this will include new lines to allow paragraphs
           **Joint work with Sami HLIOUI, Pierre-Etienne LEVY, François COSTA and Sébastien SERPAUD. In random wounded motors, design parameters such as the number of wire in parallel by turns and the overall placement of conductor is shown to have a major impact on impedances.
+      
       - layout: left
         title: September 2023
         sub_title: Workshop paper
@@ -179,6 +181,7 @@ content:
         #quote: >
         description: | # this will include new lines to allow paragraphs
           **Predictive sensitivity analysis of motor's windings HF impedances**. Joint work with Sami HLIOUI, Pierre-Etienne LEVY and François COSTA. Presents successful prediction of winding evolution with regards to design variables, validated on multiple prototypes by measurements.
+      
       - layout: left
         title: June 2023
         sub_title: Workshop paper
