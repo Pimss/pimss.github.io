@@ -172,7 +172,7 @@ content:
         caption: Science and Technology for Energy Transition
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          **Joint work with Sami HLIOUI, Pierre-Etienne LEVY, François COSTA and Sébastien SERPAUD. In random wounded motors, design parameters such as the number of wire in parallel by turns and the overall placement of conductor is shown to have a major impact on impedances.
+          **AC motor impedance predictive modeling methodology taking into account windings variability**. Joint work with Sami HLIOUI, Pierre-Etienne LEVY, François COSTA and Sébastien SERPAUD. In random wounded motors, design parameters such as the number of wire in parallel by turns and the overall placement of conductor is shown to have a major impact on impedances.
       
       - layout: left
         title: September 2023
